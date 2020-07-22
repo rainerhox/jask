@@ -9,6 +9,6 @@ permalink: /newtech/
 <li>What is blockchain?</li>
 <li>what is the cloud?</li>
 <li>How many time are we being hacked?</li>
-<li>Cmon give me a hint<a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> </li>
+<li>Cmon give me a hint <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> </li>
 
 </h4>
