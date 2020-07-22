@@ -6,7 +6,7 @@ categories: security
 ---
 <h1>Defense in depth</h1>
 
-![Defense in depth](assets/Defense-in-depth.jpg" )
+![Defense in depth](assets/Defense-in-depth.jpg)
 <h4>
 <p>This one is what we try to accomplish in security. Meaning we try to have different layers of security interconnected because as we know by fact no security control is unbreakable. In this strategy even if an attacker can bypass some defense layers it is almost impossible to bypass them all without us getting alerted and being prepared. 
 </p>
