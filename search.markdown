@@ -1,5 +1,7 @@
 ---
-Title: Search
+layout: page
+title: Search
+permalink: /search/
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
