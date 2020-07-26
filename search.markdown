@@ -10,13 +10,13 @@ title: Search
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="search-script.js" type="text/javascript"></script>
+<script src="/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: 'search.json'
+  json: '/search.json'
 })
 </script>
