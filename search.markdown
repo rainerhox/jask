@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search
+title: search
 ---
 
 <!-- Html Elements for Search -->
