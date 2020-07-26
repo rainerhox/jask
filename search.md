@@ -10,7 +10,7 @@ permalink:
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="jask/search.js" type="text/javascript"></script>
+<script src="search.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
