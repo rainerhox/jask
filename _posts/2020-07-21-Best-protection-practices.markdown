@@ -2,7 +2,7 @@
 layout: post
 title:  "Best protection practices"
 date:   2020-07-21 17:00:00 +0200
-categories: security
+category: security
 ---
 <h1>Best protection practices</h1>
 <h4>

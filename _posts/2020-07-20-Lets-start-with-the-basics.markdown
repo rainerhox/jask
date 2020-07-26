@@ -2,7 +2,7 @@
 layout: post
 title:  "Let’s start with the basics!"
 date:   2020-07-20 18:00:00 +0200
-categories: security
+category: security
 ---
 <h1>Let’s start with the basics!</h1>
 <h4>

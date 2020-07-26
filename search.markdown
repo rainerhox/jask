@@ -1,7 +1,4 @@
 ---
-layout: 
-title: Search
-permalink:
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
@@ -20,6 +17,3 @@ permalink:
     json: '/search.json'
   })
   </script>
-  <div class="post-content">
-    {{ content }}
-  </div>

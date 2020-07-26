@@ -2,7 +2,7 @@
 layout: post
 title:  "Defense in depth"
 date:   2020-07-22 17:30:00 +0200
-categories: security
+category: security
 ---
 <h1>Defense in depth</h1>
 
