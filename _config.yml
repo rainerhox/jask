@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Risk, threats, vulnerabilities, threat models, risk assessment exploits, what does these terms really mean? 
   Do we need to worry?! This blog is called JASK or Just ask and here I will try to explain security as easy as I can.
 baseurl: "jask" # the subpath of your site, e.g. /blog
-url: "https://rainerhox.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rainerhox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ask_jask
 github_username:  rainerhox
-
+author: Rainer
 # Build settings
 theme: minima
 plugins:
