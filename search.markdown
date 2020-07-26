@@ -17,6 +17,6 @@ title: Search
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/js/search.json'
+  json: '/search.json'
 })
 </script>
