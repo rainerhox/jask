@@ -3,11 +3,11 @@ layout: search
 title: Search
 permalink: /search/
 ---
-<!-- Script pointing to jekyll-search.js -->
-<script src="{{ site.baseurl }}/search.js" type="text/javascript"></script>
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
 
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
-})
+<!-- Script pointing to jekyll-search.js -->
+<script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
