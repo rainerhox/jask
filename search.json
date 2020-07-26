@@ -1,11 +1,10 @@
 ---
-layout: null
 ---
 [
   {% for post in site.posts %}
     {
       "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
+      "categories" : "{{ post.categories }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
@@ -17,7 +16,7 @@ layout: null
    {
      {% if page.title != nil %}
         "title"    : "{{ page.title | escape }}",
-        "category" : "{{ page.category }}",
+        "categories" : "{{ page.categories }}",
         "tags"     : "{{ page.tags | join: ', ' }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
         "date"     : "{{ page.date }}",
