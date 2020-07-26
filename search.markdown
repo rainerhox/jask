@@ -1,8 +1,3 @@
----
-layout: page
-title: Search
----
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
@@ -10,7 +5,7 @@ title: Search
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/search-script.js" type="text/javascript"></script>
+<script src="/path/to/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
