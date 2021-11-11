@@ -1,7 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
@@ -15,7 +14,6 @@ GEM
     i18n (1.8.4)
       concurrent-ruby (~> 1.0)
     jekyll (4.1.1)
-      addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
       i18n (~> 1.0)
